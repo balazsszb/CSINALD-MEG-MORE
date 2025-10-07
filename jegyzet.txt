@@ -1,0 +1,10 @@
+scopeok lathatosagi szintjei
+
+
+lathatosagi script: 	- globalis (scope) = mindenhol elerheto
+			- fuggveny scope - egy valtozot letrehozol fuggvenyen belul, csak azon belul latszik.
+		    	- block scope - egy blockon belul letrehozott valtozot csak a block lathatja.
+			- modul scope - modularis esetekben jon. sajat lathatosagi szint es nem egyezik a globalis scopeal.
+
+esemenyvezerelt programozas: egy adott esemeny beteljesulese eseten fog vegrehajtodni. Minden bongeszo ezt koveti.
+			     alkalmazasok is egy esemeny bekovetkezesere varnak es arra reagalnak.
